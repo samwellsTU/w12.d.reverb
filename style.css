@@ -1,0 +1,15 @@
+body {
+  font-family: cursive;
+  margin: 2em;
+  line-height: 1.6;
+  width: 25%;
+}
+code {
+  background: #de0505;
+  padding: 2px 4px;
+}
+pre {
+  background: #b2a9d8;
+  padding: 1em;
+  overflow-x: auto;
+}
